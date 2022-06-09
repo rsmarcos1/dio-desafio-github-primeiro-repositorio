@@ -1,0 +1,16 @@
+*Comandos:
+
+ls = Listar
+cd + (endereço da local) = Entra na Pasta
+CTRL L = Limpa a tela
+MKDIR + (nome) = Cria uma Pasta
+git init = Cria um repósitorio
+ls -a = Mostra arquivo oculto
+cd = Volta um nível na Pasta
+git status = verifica se está tudo traqueado
+git add* = adiciona tudo que está no diretório
+git commit -m = adiciona um index
+git remote -v = lista repositórios remotos
+git push origin main = empurra arquivo do repositório Local para o Remoto
+git clone = cola o Link copiado do Github 
+
